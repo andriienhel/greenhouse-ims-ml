@@ -247,9 +247,6 @@ python3 -m venv .venv
 
 ## Джерела
 
-Перелік дібрано так, щоб кожне джерело підпирало конкретне твердження цієї
-роботи, а не просто позначало тему.
-
 ### Дані
 
 - **Hemming S., de Zwart F., Elings A., Petropoulou A., Righini I.** Autonomous
