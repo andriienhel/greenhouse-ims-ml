@@ -1,0 +1,21 @@
+# Ядро расчётов
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+
+# Классические ML-модели и метрики
+scikit-learn>=1.5
+statsmodels>=0.14
+xgboost>=2.1          # требует libomp на macOS: brew install libomp
+
+# Нейросетевые модели (GRU/LSTM/TCN)
+torch>=2.4
+
+# Графики для статьи
+matplotlib>=3.9
+
+# Распаковка датасета AGC (архив .7z)
+py7zr>=0.21
+
+# Корневые сертификаты для загрузки датасета (сборка Python с python.org)
+certifi
